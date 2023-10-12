@@ -10,6 +10,6 @@ Lesson 1: Compiling and Interpreting Code
         Дозапись в файл: 16.07.2023 -> Hello, world
         Скомпилируйте и запустите посредством CLI
 
-![Compilet](S/Screenshot_1.jpg)
+![Compilet](src/main/java/CreditCalculator/S/Screenshot_1.jpg)
 
-![Start](S/Screenshot_2.jpg)
+![Start](src/main/java/CreditCalculator/S/Screenshot_2.jpg)
