@@ -20,7 +20,7 @@ true
         System.out.println(hasZeroNeighbor(arrayNumber));
 
     }
-/* Метод генирации наашего и раполнения рандомными числами нашего масива
+/* Метод генерации и наполнения нашего массива рандомными числами
 * */
     public static int[] createArray() {
         Random random = new Random();
@@ -40,14 +40,14 @@ true
         }
         return count;
     }
-/* Метод для нахождения раздницы между min и max элементами массива
+/* Метод для нахождения разницы между min и max элементами массива
 * */
     public static int numberDifference(int[] arrayNumber) {
         int max = Arrays.stream(arrayNumber).max().getAsInt();
         int min = Arrays.stream(arrayNumber).min().getAsInt();
         return max - min;
     }
-/* Метод озвращающую истину, если в переданном массиве есть два соседних элемента, с нулевым значением
+/* Метод возвращающий истину, если в переданном массиве есть два соседних элемента, с нулевым значением
 * */
     public static boolean hasZeroNeighbor(int[] arrayNumber) {
 
