@@ -10,7 +10,7 @@ public class Main {
         Manager m1 = new Manager("Dmitriy",180000,LocalDate.of(2000,3,12),"Manager");
         Employee e1 = new Employee("Egor",70000, LocalDate.of(2005,5,10),"Employee");
         Employee e2 = new Employee("Alex",70000,LocalDate.of(2018,1, 2),"Employee");
-        Employee e3 = new Employee("Genry",70000,LocalDate.of(2001,3, 1),"Employee");
+        Employee e3 = new Employee("Genre",70000,LocalDate.of(2001,3, 1),"Employee");
         Employee e4 = new Employee("Arnold",70000,LocalDate.of(2016,12, 13),"Employee");
 
 
