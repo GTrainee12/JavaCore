@@ -51,8 +51,8 @@ Lesson 4: Handling Exceptions
         5 - В основном классе программы необходимо по-разному обработать исключения.
         6 - Метод возвращает true, если значения верны или false в другом случае.
 
-![login and password](D:/JavaCore/S/LogPass.jpg)
-![login and password](D:/JavaCore/S/LogPass2.jpg)
+![login and password](/S/LogPass.jpg)
+![login and password](/S/LogPass2.jpg)
 
 
         2. Задача: Эмуляция интернет-магазина
@@ -63,4 +63,4 @@ Lesson 4: Handling Exceptions
         5 - Вызвать метод совершения покупки несколько раз таким образом, чтобы заполнить массив покупок возвращаемыми значениями. Обработать исключения.
         6 - Вывести в консоль итоговое количество совершённых покупок после выполнения приложения.  
 
-![shop](D:/JavaCore/S/shop.jpg)
+![shop](/S/shop.jpg)
